@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p r2_mlm Compute r-squared measures for models estimated by mixed Use r2_mlm With STATA 19
