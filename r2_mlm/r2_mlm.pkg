@@ -1,4 +1,8 @@
-D 'DEA': Data envelopment analysis
+D 'r2_mlm': Compute r-squared measures for models estimated by mixed Use r2_mlm With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F r2_mlm.ado
+F r2_mlm.sthlp
+F r2_mlm_2l.ado
+F r2_mlm_3l.ado
+F r2_mlm_4l.ado
+F r2_mlm_5l.ado
