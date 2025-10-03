@@ -1,0 +1,2 @@
+# r2_mlm
+Compute r-squared measures for models estimated by mixed Use r2_mlm With STATA 19
