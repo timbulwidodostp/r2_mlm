@@ -3,6 +3,8 @@ Compute r-squared measures for models estimated by mixed Use r2_mlm With STATA 1
 
 A postestimation command that computes r-squared measures for models estimated by mixed Use r2_mlm With STATA 19
 
+https://www.youtube.com/watch?v=2gwRccXckpA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
